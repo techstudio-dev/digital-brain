@@ -9,9 +9,6 @@ From technical stuff to notes which are important for us you can find everything
 
 ## Index
 
-
-## Index
-
 ### Miscellaneous
 - [dotfiles](https://github.com/techstudio-dev/digital-brain/tree/main/dotfiles/)
 
