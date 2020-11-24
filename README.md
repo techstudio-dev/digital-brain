@@ -1,6 +1,6 @@
 # Introduction
 
-Knowledge wiki of [Martin Kireew](https://github.com/makiri1993) and [Karim Ould Mahieddine](https://karimould.dev).
+Digital brain of [Martin Kireew](https://github.com/makiri1993) and [Karim Ould Mahieddine](https://karimould.dev).
 
 We share things we learn and relearn here and try to document them in this "Wiki".
 
